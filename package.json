@@ -1,5 +1,5 @@
 {
-  "name": "env",
+  "name": "envj",
   "version": "1.0.0",
   "description": "The environment variable",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "author": "helpceo@126.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/helpceo/env.git"
+    "url": "https://github.com/helpceo/envj.git"
   },
   "license": "ISC"
 }
