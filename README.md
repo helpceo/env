@@ -2,6 +2,6 @@
 
 ### 使用方法
 ```
-import 'env'
+import 'envj'
 env('name')
 ```
